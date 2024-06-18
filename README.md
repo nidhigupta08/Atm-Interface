@@ -50,3 +50,11 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 
 - **𝐀𝐮𝐭𝐡𝐨𝐫:** Nidhi Gupta (https://github.com/nidhigupta08)
 - **𝐄𝐦𝐚𝐢𝐥:** guptanidhi8000@gmail.com
+
+### 𝐈𝐌𝐀𝐆𝐄𝐒
+
+![1st image](https://github.com/nidhigupta08/Atm-Interface/assets/133561314/0f9ea8be-77fa-4061-b990-e786601625e5)
+![2nd image](https://github.com/nidhigupta08/Atm-Interface/assets/133561314/38b00b80-aa59-458c-8ac8-f79931e5b653)
+![3rd image](https://github.com/nidhigupta08/Atm-Interface/assets/133561314/3252e37c-e850-4168-b080-9199e0fc755a)
+
+
